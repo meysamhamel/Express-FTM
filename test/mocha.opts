@@ -1,0 +1,4 @@
+--require ts-node/register
+--timeout 0
+--colors
+--exit
